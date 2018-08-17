@@ -15,6 +15,9 @@ This code is for APESS2018 Steel Girder Crack Identification, it can also be use
 * To test, run `'test.py'`, if you want to use parameters from other epochs, please change the model name you want to load.
 * To visualize your test result, run `'visualization.py'`.
 
+## Result
+![Result](https://github.com/Hufangqiao/APESS2018_Steel_Girder_Crack_Identification/blob/master/result.jpg)
+
 ## References
 * Lin, Min, Qiang Chen, and Shuicheng Yan. "Network in network." arXiv preprint arXiv:1312.4400 (2013).
 * Dai, Jifeng, et al. "Deformable convolutional networks." CoRR, abs/1703.06211 1.2 (2017): 3.
