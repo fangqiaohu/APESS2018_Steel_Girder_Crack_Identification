@@ -18,7 +18,11 @@ This code is for APESS2018 Steel Girder Crack Identification, it can also be use
 ## Result
 ![Result](https://github.com/Hufangqiao/APESS2018_Steel_Girder_Crack_Identification/blob/master/result.jpg)
 
+## Appendix
+* If you find this code is useful, please consider to cite my next paper. :)
+
 ## References
 * Lin, Min, Qiang Chen, and Shuicheng Yan. "Network in network." arXiv preprint arXiv:1312.4400 (2013).
 * Dai, Jifeng, et al. "Deformable convolutional networks." CoRR, abs/1703.06211 1.2 (2017): 3.
 
+© 2018 Center of Structural Monitoring and Control, Harbin Institute of Technology
