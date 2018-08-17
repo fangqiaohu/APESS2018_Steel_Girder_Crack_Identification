@@ -1,5 +1,5 @@
 # APESS2018 Steel Girder Crack Identification
-This code is for APESS2018 Steel Girder Crack Identification, it can also be used for other classification tasks.
+This code is for APESS2018 Steel Girder Crack Identification, it can also be used for other classification tasks. Due to that the parameter quantity is quite few in this network, it can run very fast on both training and test procedures.
 ![Network architecture](https://github.com/Hufangqiao/APESS2018_Steel_Girder_Crack_Identification/blob/master/network%20architecture.png)
 
 ## Requirements
