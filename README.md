@@ -6,7 +6,7 @@ This code is for APESS2018 Steel Girder Crack Identification, it can also be use
 * scipy
 * matplotlib
 * opencv-python
-*
+
 ## Usage
 * First put raw images to `'image'` folder, put labels to `'label'` folder, please.
 * To generate dataset for training and test, please check `'pre_processing.py'`. Training images will be put into `'sub_image_train'` folder, test images will be put into `'sub_image_test'` folder.
