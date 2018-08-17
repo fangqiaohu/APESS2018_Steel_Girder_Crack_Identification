@@ -19,7 +19,7 @@ This code is for APESS2018 Steel Girder Crack Identification, it can also be use
 ![Result](https://github.com/Hufangqiao/APESS2018_Steel_Girder_Crack_Identification/blob/master/result.jpg)
 
 ## Appendix
-* If you find this code is useful, please consider to cite my next paper. :)
+* If you find this code is useful, please consider to cite my next paper :) :)
 
 ## References
 * Lin, Min, Qiang Chen, and Shuicheng Yan. "Network in network." arXiv preprint arXiv:1312.4400 (2013).
