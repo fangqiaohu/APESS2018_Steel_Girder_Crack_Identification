@@ -3,10 +3,12 @@ This code is for APESS2018 Steel Girder Crack Identification, it can also be use
 ![Network architecture](https://github.com/Hufangqiao/APESS2018_Steel_Girder_Crack_Identification/blob/master/network%20architecture.png)
 
 ## Requirements
-* numpy
-* scipy
-* matplotlib
-* opencv-python
+* python 3.6
+* numpy 1.14.3
+* scipy 1.1.0
+* matplotlib 2.2.2
+* opencv-python 3.4.2
+* pytorch 0.4.1
 
 ## Usage
 * First put raw images to `'image'` folder, put labels to `'label'` folder, please.
@@ -18,8 +20,8 @@ This code is for APESS2018 Steel Girder Crack Identification, it can also be use
 ## Result
 ![Result](https://github.com/Hufangqiao/APESS2018_Steel_Girder_Crack_Identification/blob/master/result.jpg)
 
-## Appendix
-* If you find this code is useful, please consider to cite my next paper :) :)
+## P.S.
+* If you find this code useful, please consider to cite my next paper :) :)
 
 ## References
 * Lin, Min, Qiang Chen, and Shuicheng Yan. "Network in network." arXiv preprint arXiv:1312.4400 (2013).
