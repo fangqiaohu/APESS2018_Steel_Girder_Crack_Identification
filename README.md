@@ -11,7 +11,8 @@ This code is for APESS2018 Steel Girder Crack Identification, it can also be use
 * pytorch 0.4.1
 
 ## Usage
-* First put raw images to `'image'` folder, put labels to `'label'` folder, please.
+* To get data, please refer to [APESS2018 Steel Girder Crack ID Data Set](https://github.com/dawnnao/APESS2018_Steel_Girder_Crack_ID_dataset).
+* First put raw images to `'image'` folder, put labels to `'label'` folder.
 * To generate dataset for training and test, please check `'pre_processing.py'`. Training images will be put into `'sub_image_train'` folder, test images will be put into `'sub_image_test'` folder.
 * To train, just run `'train.py'`.
 * To test, run `'test.py'`, if you want to use parameters from other epochs, please change the model name you want to load.
